@@ -1,2 +1,2 @@
-# pega-ip
+# sala de conversas
 pega ip alheio
